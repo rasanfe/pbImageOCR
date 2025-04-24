@@ -214,6 +214,7 @@ If ln_ocr.il_ErrorType < 0 Then
 End If
 
 MessageBox("Result", ls_text)
+Clipboard(ls_text)
 
 
 end event

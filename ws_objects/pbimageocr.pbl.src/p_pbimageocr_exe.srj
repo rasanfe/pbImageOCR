@@ -1,14 +1,14 @@
 ﻿$PBExportHeader$p_pbimageocr_exe.srj
-EXE:pbImageOCR64.exe,,0,1,1,0,C:\Program Files (x86)\Appeon\Common\PowerBuilder\Runtime 22.2.0.3356
+EXE:pbImageOCR64.exe,,0,1,1,0,C:\Program Files (x86)\Appeon\Common\PowerBuilder\Runtime 22.2.0.3397
 CMP:0,0,0,3,0,0,1
 COM:RSRSYSTEM
 DES:Appeon Power Builder 2022 Product File 64Bits
 CPY:Ramón San Félix Ramón
 PRD:pbImageOcr2022
-PVS:2022.3.3356.2
-PVN:2022,3,3356,2
-FVS:2022.3.3356.2
-FVN:2022,3,3356,2
+PVS:2022.3.3397.3
+PVN:2022,3,3397,3
+FVS:2022.3.3397.3
+FVN:2022,3,3397,3
 MAN:0,asInvoker,0
 PBD:pbimageocr.pbl,,1
 PBD:imageocr.pbl,,1
