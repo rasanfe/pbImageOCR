@@ -14,10 +14,10 @@ PBD:DotNet.pbl,,1
 PBD:topwiz.pbl,,1
 OBJ:C:\proyecto pw2025\Blog\PowerBuilder\pbImageOCR\pbimageocr.pbl,pbimageocr,a
 OBJ:C:\proyecto pw2025\Blog\PowerBuilder\pbImageOCR\pbimageocr.pbl,w_capture,w
-OBJ:c:\proyecto pw2025\blog\powerbuilder\pbimageocr\dotnet.pbl,nvo_imageocr,u
+OBJ:C:\proyecto pw2025\Blog\PowerBuilder\pbImageOCR\DotNet.pbl,nvo_imagefromclipboard,u
 OBJ:C:\proyecto pw2025\Blog\PowerBuilder\pbImageOCR\topwiz.pbl,n_resizable_response,u
 OBJ:C:\proyecto pw2025\Blog\PowerBuilder\pbImageOCR\topwiz.pbl,n_bitmap,u
-OBJ:c:\proyecto pw2025\blog\powerbuilder\pbimageocr\dotnet.pbl,nvo_imagefrompdf,u
 OBJ:C:\proyecto pw2025\Blog\PowerBuilder\pbImageOCR\pbimageocr.pbl,sr_point,s
+OBJ:C:\proyecto pw2025\Blog\PowerBuilder\pbImageOCR\DotNet.pbl,nvo_imagefrompdf,u
+OBJ:C:\proyecto pw2025\Blog\PowerBuilder\pbImageOCR\DotNet.pbl,nvo_imageocr,u
 OBJ:C:\proyecto pw2025\Blog\PowerBuilder\pbImageOCR\pbimageocr.pbl,w_main,w
-OBJ:c:\proyecto pw2025\blog\powerbuilder\pbimageocr\dotnet.pbl,nvo_imagefromclipboard,u
