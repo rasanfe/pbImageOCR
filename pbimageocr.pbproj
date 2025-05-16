@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Project>
+  <Type Name="pb"/>
+  <Application Name="pbimageocr"/>
+  <Libraries AppEntry="pbimageocr.pbl">
+    <Library Path="pbimageocr.pbl"/>
+    <Library Path="DotNet.pbl"/>
+    <Library Path="topwiz.pbl"/>
+  </Libraries>
+</Project>

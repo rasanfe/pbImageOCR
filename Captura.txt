@@ -1,0 +1,35 @@
+PowerBuilder
+
+ 
+
+PowerBuilder es una herramienta de desarrollo de clase empresarial desarrollada por la empresa
+PowerSoft. PowerBuilder es orientada a objetos y permite el desarrollo de diferentes tipos de
+aplicaciones y componentes para ejecutar arquitecturas chiente/servidor, distribuidas y con lanzadores
+web (simulando una aplicación web).
+
+Principales características [editar]
+
+ 
+
+PowerBuilder incluye, dentro de su ambiente integrado de desarrollo, herramientas para crear la interfaz
+de usuario, generar reportes y tener acceso al contenido de una base de datos. PowerBuilder también
+incluye un lenguaje de programación llamado Powerscript, el cual es usado para especiíficar el
+comportamiento de la aplicación en respuesta a eventos del sistema o del usuario, tal como cerrar una
+ventana o presionar un botón. Las aplicaciones desarrolladas con PowerBuilder se ejecutan
+exclusivamente en el sistema operativo Microsoft Windows, aunque cierto tipo de componentes que no
+incluyen una interfaz de usuario (llamados componentes no visuales o NVOs) y que encapsulan sólo
+lógica de aplicación, se pueden ejecutar en otros sistemas operativos como Unix, usando la "Máquina
+Virtual de PowerBuilder" o PBVM incluida dentro del servidor de aplicaciones EAServer de Sybase.
+
+Adicionalmente, PowerBuilder posee un objeto nativo para la gestión de datos llamado Datawindow, el
+cual puede ser usado para crear, editar y visualizar datos de una base de datos. Este objeto patentado
+por Sybase da al desarrollador un conjunto amplio de herramientas para especificar y controlar la
+apariencia y comportamiento de la interfaz de usuario, y también brinda acceso simplificado al
+contenido de la base de datos. Hasta cierto punto, el DataWindow libera al programador de las
+diferencias entre sistemas de gestión de base de datos de diferentes proveedores. Recientemente.
+
+Sybase introdujo al mercado el Datawindow.NET, un componente que extiende las bondades de
+Datawindow y acelera el rendimiento de aplicaciones
+en ambientes de desarrollo NET.
+
+ 

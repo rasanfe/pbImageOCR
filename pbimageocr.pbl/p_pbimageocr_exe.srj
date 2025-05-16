@@ -1,0 +1,23 @@
+﻿EXE:pbImageOCR64.exe,,0,1,1,0,C:\Program Files (x86)\Appeon\Common\PowerBuilder\Runtime 25.0.0.3683
+CMP:0,0,0,3,0,0,1
+COM:RSRSYSTEM
+DES:Appeon Power Builder 2025 Product File 64Bits
+CPY:Ramón San Félix Ramón
+PRD:pbImageOcr2025
+PVS:2025.1.3683.4
+PVN:2025,1,3683,4
+FVS:2025.1.3683.4
+FVN:2025,1,3683,4
+MAN:0,asInvoker,0
+PBD:pbimageocr.pbl,,1
+PBD:DotNet.pbl,,1
+PBD:topwiz.pbl,,1
+OBJ:C:\proyecto pw2025\Blog\PowerBuilder\pbImageOCR\pbimageocr.pbl,pbimageocr,a
+OBJ:C:\proyecto pw2025\Blog\PowerBuilder\pbImageOCR\pbimageocr.pbl,w_capture,w
+OBJ:c:\proyecto pw2025\blog\powerbuilder\pbimageocr\dotnet.pbl,nvo_imageocr,u
+OBJ:C:\proyecto pw2025\Blog\PowerBuilder\pbImageOCR\topwiz.pbl,n_resizable_response,u
+OBJ:C:\proyecto pw2025\Blog\PowerBuilder\pbImageOCR\topwiz.pbl,n_bitmap,u
+OBJ:c:\proyecto pw2025\blog\powerbuilder\pbimageocr\dotnet.pbl,nvo_imagefrompdf,u
+OBJ:C:\proyecto pw2025\Blog\PowerBuilder\pbImageOCR\pbimageocr.pbl,sr_point,s
+OBJ:C:\proyecto pw2025\Blog\PowerBuilder\pbImageOCR\pbimageocr.pbl,w_main,w
+OBJ:c:\proyecto pw2025\blog\powerbuilder\pbimageocr\dotnet.pbl,nvo_imagefromclipboard,u
