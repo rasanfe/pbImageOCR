@@ -1,5 +1,12 @@
-/pbimageocr64.xml
 /Response.bmp
 /Captura.pdf
 /Captura.png
 /bin/temp.bmp
+
+# Regenerables de PowerBuilder (no versionar) - anadido por mantenimiento
+.pb/
+build/
+*.pbd
+*.exe
+*.usr.opt
+*_mig.log
